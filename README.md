@@ -1,10 +1,14 @@
 # bioinf_data_sources
 
-## Epigenomic data
+## Epigenomic data source
 
 * EpiMap (this is the biggest epigenomic dataset): 
   * http://compbio.mit.edu/epimap/
 
+## Visualization
+
+* List of genome visualization tools
+ * https://cmdcolin.github.io/awesome-genome-visualization/?latest=true
 
 Good papers:
 * TPM, FPKM, or Normalized Counts? A Comparative Study of Quantification Measures for the Analysis of RNA-seq Data from the NCI Patient-Derived Models Repository
