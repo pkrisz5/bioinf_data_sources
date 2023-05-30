@@ -15,6 +15,6 @@ Good papers:
  * https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-02936-w
 
 ## Pipelines
-
+GATK for Microbes: by Bhanu Gandham
 * https://www.ncbi.nlm.nih.gov/sra/docs/sars-cov-2-illumina-variant-calling-pipeline/
 * https://www.youtube.com/watch?v=SWctSwM7_rs
