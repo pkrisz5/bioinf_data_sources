@@ -17,3 +17,4 @@ Good papers:
 ## Pipelines
 
 * https://www.ncbi.nlm.nih.gov/sra/docs/sars-cov-2-illumina-variant-calling-pipeline/
+* https://www.youtube.com/watch?v=SWctSwM7_rs
