@@ -4,6 +4,10 @@
 
 * EpiMap (this is the biggest epigenomic dataset): 
   * http://compbio.mit.edu/epimap/
+## Tissue specific gene expression data
+
+* The Genotype-Tissue Expression (GTEx) Portal is a comprehensive public resource for researchers studying tissue and cell-specific gene expression and regulation across individuals, development, and species, with data from 3 NIH projects.
+* https://gtexportal.org/home/
 
 ## Visualization
 
